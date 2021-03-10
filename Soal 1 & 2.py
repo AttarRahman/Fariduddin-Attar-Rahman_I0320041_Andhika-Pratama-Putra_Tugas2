@@ -1,3 +1,4 @@
+# Menghitung luas persegi panjang
 panjang=(input("Masukkan panjang :"))
 lebar=(input("Masukkan lebar :"))
 luas=int(panjang*lebar)
