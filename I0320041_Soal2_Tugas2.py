@@ -10,6 +10,8 @@ berat_badan = "53 kg"
 tinggi_badan = "177 cm"
 ukuran_sepatu = "UK 43"
 makanan_favorit = "Mie goreng"
+minuman_favorit = "Es teh"
+software ="Autodesk Inventor (cakap) dan Adobe Photoshop (basic)"
 alamat = "Jl.Elang C1-12 Perum UNS V Palur, Ngringo, Jaten, Karanganyar"
 hobi = "Futsal,Belajar,Membaca buku"
 lingkungan = "Rumah saya berada di perumahan tetapi dekat dengan sawah yang hijau"
@@ -23,3 +25,5 @@ print(lingkungan)
 print("Hobi saya adalah",hobi)
 print("Berat badan saya",berat_badan,"dan","tinggi saya",tinggi_badan)
 print("Ukuran sepatu saya",ukuran_sepatu)
+print("Makanan favorit saya",makanan_favorit,"ditemani dengan",minuman_favorit)
+print("Saya memiliki skill software",software)
