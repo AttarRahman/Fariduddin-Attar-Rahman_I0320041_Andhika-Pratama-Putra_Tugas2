@@ -6,7 +6,7 @@ print("Luas persegi panjang adalah",luas,"satuan")
 
 print("===== Menghitung Luas Lingkaran =====")
 phi = 3.14
-jari_jari = float(input("Masukkan jari-jari :))
+jari_jari = float(input("Masukkan jari-jari :"))
 luas = jari_jari*jari_jari*phi
 print("Luas lingkaran adalah",luas,"satuan")
 
