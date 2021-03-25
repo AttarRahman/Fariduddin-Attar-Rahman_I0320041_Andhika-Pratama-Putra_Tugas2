@@ -4,7 +4,7 @@ panjang = float(input("Masukkan panjang :"))
 lebar = float(input("Masukkan lebar :"))
 luas = (panjang*lebar)
 print("Luas persegi panjang adalah",luas,"satuan")
-p
+
 # Luas lingkaran
 print("===== Menghitung Luas Lingkaran =====")
 phi = 3.14
